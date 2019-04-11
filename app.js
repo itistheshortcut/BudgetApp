@@ -253,8 +253,6 @@ var controller = (function(budgetCtrl, UICtrl) {
         totalInc: 0,
         totalExp: 0
       });
-
-      UICtrl.displayMonth();
     }
   };
 })(budgetController, UIController);
